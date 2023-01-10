@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/xumingze/.vscode/extensions/azemoh.one-monokai-0.5.0/themes'
+let g:netrw_dirhist_1='/Users/xumingze/Dropbox/Career/homepage/.git'
